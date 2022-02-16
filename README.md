@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TWERKMAGIC
+- 👀 I’m interested in ... Betaflight, Open TX, Android App Development, Cybersecurity, and many other things...
+- 🌱 I’m currently learning ...App Development
+- 💞️ I’m looking to collaborate on ...Spotify's Car Thing
+- 📫 How to reach me ... calvip9@gmail.com
